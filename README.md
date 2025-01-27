@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# User-Management-Dashboard
-=======
 # User Management Dashboard
 
 A simple web application for managing user details. Users can view, add, edit, and delete user information using a mock backend API (JSONPlaceholder). Built with **React** and **Axios**.
