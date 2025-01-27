@@ -105,32 +105,4 @@ The application interacts with the [JSONPlaceholder](https://jsonplaceholder.typ
 
 ---
 
-## Future Improvements
-
-1. **Real Backend Integration**:
-   - Integrate with a real backend that persists data to provide a more realistic user experience.
-
-2. **Advanced Validation**:
-   - Implement more robust validation, including server-side validation.
-
-3. **Authentication**:
-   - Add user authentication to restrict access to certain features.
-
-4. **Testing**:
-   - Write unit and integration tests to ensure the application is robust and bug-free.
-
-5. **State Management**:
-   - Use a state management library like Redux or Context API for better state handling in larger applications.
-
----
-
-## Acknowledgments
-
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com) for providing a free mock API.
-- [React](https://reactjs.org) for the frontend library.
-- [Axios](https://axios-http.com) for handling HTTP requests.
-
----
-
-Enjoy using the **User Management Dashboard**! 🚀
->>>>>>> 3774f90 (Initial commit)
+Enjoy using the **User Management Dashboard**! 
